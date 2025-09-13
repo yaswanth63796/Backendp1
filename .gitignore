@@ -3,3 +3,4 @@ echo *.pyc >> .gitignore
 echo firebaseKey.json >> .gitignore
 echo .env >> .gitignore
 .env 
+.env 
